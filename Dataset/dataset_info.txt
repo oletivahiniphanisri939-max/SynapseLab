@@ -1,0 +1,12 @@
+Dataset Information
+
+This project does not use any external dataset.
+
+The interactive experiment uses synthetic educational examples:
+CAT → MEOW
+CAT → BARK
+
+These examples are created only to demonstrate synaptic plasticity,
+temporary memory, and memory interference.
+
+No external data, pretrained weights, or private user data are used.
