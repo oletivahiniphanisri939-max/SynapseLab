@@ -237,7 +237,7 @@ The production files are generated in the dist directory.
 
 Live interactive website:
 
-TODO: Add deployed website URL
+https://synapse-lab-vert.vercel.app/
 
 The website should open without requiring the learner to sign in.
 
@@ -245,18 +245,62 @@ The website should open without requiring the learner to sign in.
 
 Public GitHub repository:
 
-TODO: Add GitHub repository URL
+https://github.com/oletivahiniphanisri939-max/SynapseLab
 
-##14. Research References
+## 14. Research References
 
-The project uses primary research sources to support the technical concepts
-discussed in the educational material.
+The technical explanations in SynapseLab are grounded in recent primary
+research on short-term synaptic plasticity, working memory, and brain-inspired
+AI architectures.
 
-At least three recent primary papers from the 2022–2026 period are included
-in the final submission package.
+### 1. Short-Term Synaptic Plasticity and Working Memory
 
-Research citations should be placed beside the relevant technical claims in
-the project documentation and blog.
+Kozachkov, L., et al. (2022).
+**Robust and brain-like working memory through short-term synaptic plasticity.**
+PLOS Computational Biology.
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010776
+
+This work studies how short-term synaptic plasticity can support working
+memory and improve robustness in recurrent neural networks.
+
+### 2. Short-Term Plasticity Neurons
+
+Rodriguez, A., Guo, X., & Moraitis, T. (2022).
+**Short-Term Plasticity Neurons Learning to Learn and Forget.**
+Proceedings of the 39th International Conference on Machine Learning (ICML).
+
+https://proceedings.mlr.press/v162/rodriguez22b.html
+
+This work investigates neurons whose synaptic state changes over time,
+supporting short-term learning, association, and forgetting.
+
+### 3. Synaptic Plasticity and Sequential Working Memory
+
+**The synaptic correlates of serial position effects in sequential working
+memory.** (2024).
+Frontiers in Computational Neuroscience.
+
+https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2024.1430244/full
+
+This study uses computational models involving short-term synaptic
+plasticity to investigate sequential working-memory effects.
+
+### 4. Dragon Hatchling (BDH)
+
+Kosowski, A., et al. (2025).
+**The Dragon Hatchling: The Missing Link between the Transformer and Models
+of the Brain.**
+
+https://arxiv.org/abs/2509.26507
+
+This paper provides the primary research basis for the BDH connection in
+SynapseLab. BDH describes a brain-inspired post-Transformer architecture in
+which synaptic plasticity contributes to memory during inference.
+
+These references are used to support the educational explanations in
+SynapseLab. The interactive experiment itself is a simplified educational
+model and is not intended to reproduce the published research systems.
 
 ##15. Limitations
 
