@@ -395,26 +395,27 @@ SynapseLab/
 node_modules is not included in the source repository because dependencies
 can be restored using npm install.
 
-##20. DataForge 2026 Submission Links
-Live Artifact
+## 20. DataForge 2026 Submission Links
 
-TODO: Add deployed website URL
+### Live Artifact
 
-Source Code
+[SynapseLab Live Demo](https://synapse-lab-vert.vercel.app/)
 
-TODO: Add public GitHub repository URL
+### Source Code
 
-Blog PDF
+[SynapseLab GitHub Repository](https://github.com/oletivahiniphanisri939-max/SynapseLab)
 
-TODO: Add blog PDF / public link
+### Blog PDF
 
-Concept Summary
+[SynapseLab DataForge Blog](./SynapseLab_DataForge_Blog.pdf)
 
-TODO: Add concept summary PDF / public link
+### Concept Summary
 
-Additional Documentation
+[SynapseLab One-Page Concept Summary](./SynapseLab_One_Page_Concept_Summary.pdf)
 
-TODO: Add documentation link if applicable
+### Additional Documentation
+
+Not applicable
 
 ###21. Credits
 
